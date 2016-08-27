@@ -1,8 +1,8 @@
 # Document:
 # http://simiki.org/docs/configuration.html
 
-url: https://wiki-mpmsimo.rhcloud.com
+url: http://mpmsimo.github.io
 title: Wiki - Michael Simo
-keywords: wiki, markdown, linux, python, sysadmin, openstack 
+keywords: wiki, markdown, linux, python, sysadmin, openstack
 description: "Michael Simo's personal wiki page which covers a variety of topics including Linux, Python, and OpenStack." 
 author: Michael Simo
